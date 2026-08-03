@@ -63,7 +63,7 @@ O notebook `analise_mulheres_habilitadas.ipynb` percorre as seguintes etapas:
 
 ```bash
 git clone https://github.com/gustavolopes10/school-satisfaction-analysis.git
-cd NOME-DO-REPOSITORIO
+cd school-satisfaction-analysis.git
 pip install -r requirements.txt
 jupyter notebook analise_mulheres_habilitadas.ipynb
 ```
